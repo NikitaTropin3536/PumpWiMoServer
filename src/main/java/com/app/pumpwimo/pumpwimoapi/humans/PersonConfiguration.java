@@ -115,7 +115,7 @@ public class PersonConfiguration {
                 "https://haipovo.ru/wp-content/uploads/2023/01/dzhoan-rouling-napishet-vosmuyu-knigu-o-garri-pottere.jpg",
 
                 // Миучча Прада Бианки
-                "https://www.covermg.com/wp-content/uploads/2018/03/c34986a13abffdff7b576dc1786c4449-768x768.jpg",
+                "https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/resize=width:2400,fit:crop/output=quality:70/compress/https://process.fs.grailed.com/hcy1YVhSNq4KhUb114bw",
 
                 // Илон Маск
                 "https://www.topnews.ru/wp-content/uploads/2021/05/Mask.jpg",
@@ -305,7 +305,7 @@ public class PersonConfiguration {
                 "Известная певица, актриса, автор песен, певица и музыкальный продюсер",
                 "Мексиканский бизнесмен",
 
-                "Бывший председатель совета директоров и CEO Starbucks",
+                "Бывший CEO Starbucks",
 
                 "С# - разработчик",
 

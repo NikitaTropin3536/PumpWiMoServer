@@ -67,32 +67,7 @@ public class PersonService {
          * todo | в будущих обновлениях это будет исправлено!
          */
         if (row.isPresent()) {
-            Person person = row.get();
-            if (!updatedPerson.getName().isEmpty()) {
-                person.setName(updatedPerson.getName());
-            }
-            if (!updatedPerson.getPhoto().isEmpty()) {
-                person.setPhoto(updatedPerson.getPhoto());
-            }
-            if (!updatedPerson.getWhatDo().isEmpty()) {
-                person.setWhatDo(updatedPerson.getWhatDo());
-            }
-            if (!updatedPerson.getSummary().isEmpty()) {
-                person.setSummary(updatedPerson.getSummary());
-            }
-            if (!updatedPerson.getInfoLink().isEmpty()) {
-                person.setInfoLink(updatedPerson.getInfoLink());
-            }
-            if (!updatedPerson.getDopLink().isEmpty()) {
-                person.setDopLink(updatedPerson.getDopLink());
-            }
-            if (!updatedPerson.getFavourite().isEmpty()) {
-                person.setFavourite(updatedPerson.getFavourite());
-            }
-            if (!updatedPerson.getBiographyRead().isEmpty()) {
-                person.setBiographyRead(updatedPerson.getBiographyRead());
-            }
-            personRepository.save(person);
+            // todo что то написать
         }
     }
 
