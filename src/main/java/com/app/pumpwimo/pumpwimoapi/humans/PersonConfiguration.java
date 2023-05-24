@@ -43,13 +43,13 @@ public class PersonConfiguration {
     private void fillPersonNames() {
         personNames.addAll(Arrays.asList(
 
-                "Сильвестр Сталлоне", "Ли Бён Чхоль", "Соичиро Хонда",
+                "Сильвестр Сталлоне", "  Ли Бён Чхоль", "Соичиро Хонда",
 
                 "Киичиро Тойода", "Джимми Уэйлс", "Джерри Янг",
 
                 "Ларри Пейдж", "Сергей Брин", "Джоан Роулинг",
 
-                "Миучча Прада Бианки", "Илон Маск", "Мэри Кэй Эш",
+                "Миучча Прада", "Илон Маск", "Мэри Кэй Эш",
 
                 "Рэй Крок", "Филл Найт", "Томас Эдисон",
 
@@ -79,7 +79,9 @@ public class PersonConfiguration {
 
                 "Максим Садков", "Даниил Покровский",
 
-                "Арсений Аношин", "Александр Ошаров", "Матвей Казуров"
+                "Арсений Аношин", "Александр Ошаров",
+
+                "Матвей Казуров", "Ешгин Магеррамов"
         ));
     }
 
@@ -88,67 +90,67 @@ public class PersonConfiguration {
         personPhotos.addAll(Arrays.asList(
 
                 // Сильвестр Сталлоне
-                "https://www.vladtime.ru/uploads/posts/2016-07/1467808729_kinogallery-wallpaper-1600x1200-18899.jpg",
+                "https://almode.ru/uploads/posts/2021-04/1618122148_1-p-silvestr-stallone-1.jpg",
 
                 // Ли Бён Чхоль
-                "https://www.istmira.com/uploads/posts/2019-03/1553800465_3165978-hzxyeape-7.jpg",
+                "https://avatars.mds.yandex.net/i?id=d02b7c9898a3b8c036e49ee5a2956a18-4987739-images-thumbs&ref=rim&n=33&w=415&h=281",
 
                 // Соичиро Хонда
-                "https://a.d-cd.net/59ee69es-960.jpg",
+                "https://avatars.dzeninfra.ru/get-zen_doc/1592246/pub_5eb4946d4ca89236df2d1555_5eb494ad9dbe95648c543b7f/scale_1200",
 
                 // Киичиро Тойода
-                "https://avtoremont-shop.ru/wp-content/uploads/3564638.jpg",
+                "https://www.rewindandcapture.com/wp-content/uploads/2018/06/toyoda.jpg",
 
                 // Джимми Уэйлс
-                "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jimmy_Wales_July_2010_3.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/3/39/Jimmy_Wales_by_Chris_Floyd.jpg",
 
                 // Джерри Янг"
-                "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/BGCAYJIEI5EMRFSMZYJ5BCUFEM.jpg",
+                "https://tse1.mm.bing.net/th/id/OIP.hgqf2Roc0VIZrevtve5PgwHaJ3?w=191&h=255&c=7&r=0&o=5&pid=1.7",
 
                 // Ларри Пейдж
                 "https://rb.ru/media/upload_tmp/lp17.jpg",
 
                 // Сергей Брин
-                "https://i.insider.com/5de6eac8fd9db25c5b3b7feb?width=1000&format=jpeg&auto=webp",
+                "https://c400.ru/uploads/posts/2021-12/sergej-brin.png",
 
                 // Джоан Роулинг
                 "https://haipovo.ru/wp-content/uploads/2023/01/dzhoan-rouling-napishet-vosmuyu-knigu-o-garri-pottere.jpg",
 
-                // Миучча Прада Бианки
-                "https://process.fs.grailed.com/AJdAgnqCST4iPtnUxiGtTz/cache=expiry:max/rotate=deg:exif/resize=width:2400,fit:crop/output=quality:70/compress/https://process.fs.grailed.com/hcy1YVhSNq4KhUb114bw",
+                // Миучча Прада
+                "https://i.pinimg.com/originals/6b/86/b4/6b86b42b6a416a024a96a692edc0a1d8.jpg",
 
                 // Илон Маск
-                "https://www.topnews.ru/wp-content/uploads/2021/05/Mask.jpg",
+                "https://www.iphones.ru/wp-content/uploads/2022/07/220517095420-elon-musk-0502-restricted.jpg",
 
                 // Мэри Кэй Эш
-                "https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Mary_Kay_Ash__8d715d/Mary_Kay_Ash.jpg__95160_original.webp",
+                "https://chaslaupiastsiuk.com/wp-content/uploads/2022/04/10e193959928ad2e42a0b9370d246e1f-2-1-scaled.jpeg",
 
                 // Рэй Крок
-                "https://cdn.quotenova.net/images/authors/r/ray-kroc/ray-kroc-750x750.jpg",
+                "https://fb.ru/misc/i/gallery/90445/2809627.jpg",
 
                 // Филл Найт
-                "http://www.simplemost.com/wp-content/uploads/2018/11/814465464_Phil-Knight.jpg",
+                "https://i.insider.com/5bd9f145beb6703822204a54?width=2000&format=jpeg&auto=webp",
 
                 // Томас Эдисон
                 "https://uk-parkovaya.ru/wp-content/uploads/e/8/b/e8baaa723b05dbf15d8037d7744f5d1e.jpg",
 
                 // Коко Шанель
-                "https://ziva-club.ru/wp-content/uploads/2019/04/коко-шанель-4.jpg",
+                "https://webpulse.imgsmail.ru/imgpreview?key=pulse_cabinet-image-011cbd04-0a38-48ad-81d9-3263c60adc45&mb=webpulse",
 
                 // Марк Цукерберг
-                "https://skolkolet.com/images/590e5ad27d66ac348e88bf0a/large@2x.jpg",
+                "https://s0.rbk.ru/v6_top_pics/media/img/1/70/755216957065701.jpg",
 
                 // Уолт Дисней
-                "https://i.pinimg.com/originals/f3/2c/c7/f32cc7e957fd3d92d13c19dc3e013e44.jpg",
+                "https://img.joinfo.com/i/2022/02/800x0/6203a55776440.jpg",
 
                 // Акио Морита
-                "https://img-gorod.ru/upload/iblock/925/925a11d826d77e7bfdd59e6cb0d2d897.jpg",
+                "http://www.grandespymes.com.ar/wp-content/uploads/2015/11/akio-morita.32432dddc.jpg",
 
                 // Евгений Чичваркин
-                "https://manulik.com/wp-content/uploads/2019/11/Чичваркин.jpg",
+                "https://avatars.mds.yandex.net/i?id=2ae14ca7343069418cc587dda54e2889ac83fa85-8496612-images-thumbs&n=13",
 
                 // Опра Уинфри
-                "https://uhd.name/uploads/posts/2020-11/1604607959_2-p-opra-uinfri-6.jpg",
+                "https://vremax.com/wp-content/uploads/2022/12/img_63905c68425be.png",
 
                 // Майкл Джордан
                 "https://avatars.dzeninfra.ru/get-zen_doc/5042138/pub_6379f8519bf54d6982b32352_6379fad18963177bfc89053e/scale_1200",
@@ -157,40 +159,40 @@ public class PersonConfiguration {
                 "https://com-business.ru/wp-content/uploads/a/0/b/a0b2ffeeabd3c6559d84dd132cb54523.jpeg",
 
                 // Роберт Кийосаки
-                "https://sun9-88.userapi.com/impf/PBe3BIcqVH8TPmFiidZ4eu4Lg_muh6nDiwLfYQ/2qgzrQj2Mjk.jpg?size=862x768&quality=96&sign=000f113456231dcce5a0b59f7f43e6a4&c_uniq_tag=9Chc7x_hNw44-1Sr1mfFaLIJYxuT16_YxNH9JWCvKyQ&type=album",
+                "https://avatars.dzeninfra.ru/get-zen_doc/4909470/pub_63e34ee5e4f07234020d3009_63e34fd6e4f07234020f31d7/scale_1200",
 
                 // Уоррен Баффет
-                "https://img.icotokenfund.com/img/entrepreneurs/587/5-things-we-learned-from-warren-buffett-annual-letter.jpg",
+                "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1ePS3r.img?w=1920&h=1080&m=4&q=84",
 
                 // Стив Джобс
-                "https://www.iphones.ru/wp-content/uploads/2015/06/steve-jobs-e1434470448366.jpg",
+                "https://losko.ru/wp-content/uploads/2019/09/dzhobs_dzen.jpg",
 
                 // Стив Возняк
                 "https://upload.wikimedia.org/wikipedia/commons/2/27/Steve_Wozniak_%2836998207703%29.jpg",
 
                 // Генри Форд
-                "https://interesnyefakty.org/wp-content/uploads/genri-ford-9.jpg",
+                "https://i.trbna.com/preset/wysiwyg/d/6a/8e2e8c04511e99f8bd76da6667122.jpeg",
 
                 // Билл Гейтс
                 "https://s.mediasole.ru/images/2886/2886540/1.jpg",
 
                 // Маргарет Тэтчер
-                "https://s.hdnux.com/photos/20/73/55/4438902/4/rawImage.jpg",
+                "https://uhd.name/uploads/posts/2020-09/1600718684_28-p-margaret-tetcher-75.jpg",
 
                 // Ларри Эллисон
-                "https://live.staticflickr.com/4149/5007504146_5e61a2e79d_b.jpg",
+                "https://avatars.mds.yandex.net/i?id=b52db865a47d8fdb6d260e4bfd4fe75a-4872471-images-thumbs&n=13",
 
                 // Амансио Ортега
-                "https://interesnyefakty.org/wp-content/uploads/amansio-ortega-3.jpg",
+                "https://avatars.mds.yandex.net/i?id=4067447e9004d9bab499ff23ef28d7ab8a14e0af-5699445-images-thumbs&n=13",
 
                 // Бернар Арно
-                "https://mainstyles.ru/uploads/material-image/Jeff_Bezos_Bernard_Arnault_022_Mainstyle.jpg",
+                "https://s0.rbk.ru/v6_top_pics/media/img/1/11/755265443012111.jpg",
 
                 // Стивен Кинг
-                "https://hotgeo.ru/uploads/posts/2018-10/1540466039_sub-buzz-24545-1504735575-2.jpg",
+                "https://sciencepop.ru/wp-content/uploads/2019/05/c4714ac5-c653-4171-8234-1b947be34a0d-scaled.jpg",
 
                 // Стивен Спилберг
-                "https://zabavniki.club/wp-content/uploads/stiven_spilberg_foto_44_25112128.jpg",
+                "https://investvlg.ru/800/600/https/1079614922.rsc.cdn77.org/data/images/full/194545/steven-spielberg.jpg",
 
                 // Майкл Блумберг
                 "https://nypost.com/wp-content/uploads/sites/2/2018/06/mike-bloomberg-takes.jpg?quality=75&amp;strip=all&amp;w=1024",
@@ -199,10 +201,10 @@ public class PersonConfiguration {
                 "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/S6RPYJ4FNQFSCJT25DAQXEKXQU.jpg",
 
                 // Джек Ма
-                "https://www.globalmsk.ru/usr/upload/upload-16347198400.jpg",
+                "https://s0.rbk.ru/v6_top_pics/media/img/2/75/756353392291752.jpg",
 
                 // Стивен Хокинг
-                "https://i.pinimg.com/736x/75/f3/ea/75f3eadfb7ac7e36df5bafca6c67381a.jpg",
+                "https://img.labirint.ru/images/goodssets/preview_img_1290_128.jpg",
 
                 // Павел Дуров
                 "https://www.iphones.ru/wp-content/uploads/2022/12/IMG-10983445-624a99e258c99.jpg",
@@ -214,7 +216,7 @@ public class PersonConfiguration {
                 "https://biographe.ru/wp-content/uploads/2021/02/2424324.jpg",
 
                 // Мадонна
-                "https://i.pinimg.com/originals/89/c7/88/89c788ff313120e9487c9d4100dffe4a.jpg",
+                "https://stavropol-poisk.ru/wp-content/uploads/2020/05/131.jpg",
 
                 // Карлос Слим Элу
                 "https://interesnyefakty.org/wp-content/uploads/karlos-slim-elu-3.jpg",
@@ -223,7 +225,7 @@ public class PersonConfiguration {
                 "https://trainings-consulting.ru/wp-content/uploads/2020/04/6-b6ae-86f731add19a.jpg",
 
                 // Алексей Хлопков
-                "https://ru-world.net/gallery/sun6-22.userapi.com/s/v1/ig2/ThpWqVClgpWbGbkDXKt9tZW9pDbCGt1VV9IYaDHrbeuEFx3pcvzgMQCqr5iCvKcKWfAfsY-muIilBjPzpkALQI-L.jpg?size=200x200&quality=95&crop=0,192,1920,1920&ava=1",
+                "https://wikimultia.org/images/0/09/Naruto_newshot.png?20180221230945",
 
                 // Иван Мурзин
                 "https://avatars.githubusercontent.com/u/62932613?v=4",
@@ -235,13 +237,16 @@ public class PersonConfiguration {
                 "https://i.imgur.com/iysd70Z.jpg",
 
                 // Арсений Аношин
-                "https://comicvine.gamespot.com/a/uploads/original/11130/111300127/5909677-luffyopener.jpg",
+                "https://i.pinimg.com/originals/3a/54/6a/3a546adb6b017141918d52faa5ef7bad.jpg",
 
                 // Александр Ошаров
                 "https://a-static.besthdwallpaper.com/black-asta-demon-black-clover-wallpaper-2000x1333-71496_39.jpg",
 
                 // Матвей Казуров
-                "https://flomaster.club/uploads/posts/2022-06/1655875222_51-flomaster-club-p-portret-koroleva-sergeya-pavlovicha-krasiv-57.jpg"
+                "https://flomaster.club/uploads/posts/2022-06/1655875222_51-flomaster-club-p-portret-koroleva-sergeya-pavlovicha-krasiv-57.jpg",
+
+                // Ешгин Магеррамов
+                "https://www.bolsamania.com/cine/wp-content/uploads/2021/12/1-14.jpg"
         ));
     }
 
@@ -249,66 +254,66 @@ public class PersonConfiguration {
     private void fillPersonsWhatDo() {
         personWhatDo.addAll(Arrays.asList(
 
-                "Американский актёр, кинорежиссёр, сценарист и продюсер",
-                "Основатель Samsung Group",
-                "Основатель Honda Motor Co., Ltd.",
+                "Американский актёр, кинорежиссёр и сценарист",
+                "   Основатель \n Samsung Group",
+                "Основатель \n Honda Motor Co., Ltd.",
 
-                "Основатель Toyota Motor Corporation.",
-                "Основатель Википедии",
-                "Основатель Yahoo",
+                "   Основатель Toyota \n Motor Corporation",
+                "   Основатель \n Википедии",
+                "   Основатель \n Yahoo",
 
-                "Соснователь Google",
-                "Соснователь Google",
+                "  Сооснователь \n Google",
+                "  Сооснователь \n Google",
                 "Автор книг о Гарри Поттере",
 
-                "Итальянский дизайнер, совладелец Дома моды Prada",
-                "Основатель SpaceX, SolarCity, владелец Tesla",
-                "Создательница компании Mary Kay Inc.",
+                "Cовладелец Дома \n моды Prada",
+                "Основатель SpaceX, SolarCity, \n владелец Tesla",
+                "Основательница \n Mary Kay Inc.",
 
                 "Основатель Макдональдс",
-                "Основатель Nike",
-                "Великий изобретатель",
+                "  Основатель \n Nike",
+                "  Великий \n изобретатель",
 
-                "Французский модельер",
-                "Основатель Facebook",
+                "  Французский \n модельер",
+                "  Основатель \n Facebook",
                 "Основатель The Walt Disney Company",
 
-                "Основатель Sony Corporation",
-                "Сооснователь Евросети",
-                "Известная телеведущая",
+                " Основатель Sony Corporation",
+                "  Сооснователь \n Евросети",
+                " Известная \n телеведущая",
 
                 "Легендарный баскетболист",
                 "Основатель международной корпорации Virgin",
-                "Известный финансовый консультант и инвестор",
+                "Известный \n финансовый консультант",
 
-                "Великий инвестор",
-                "Сооснователь Apple",
+                "  Великий \n инвестор",
+                "  Сооснователь \n Apple",
                 "Сооснователь Apple, создатель Apple I и Apple II",
 
-                "Основатель Ford Motor Company",
-                "Сооснователь Microsoft",
-                "Премьер-министр Великобритании с 1979 по 1990",
+                "  Основатель \n Ford Motor Company",
+                "  Сооснователь \n Microsoft",
+                "Премьер-министр Великобритании \n с 1979 по 1990",
 
-                "Основатель Oracle",
-                "Основатель и владелец Zara, Bershka, Pull&Bear, Stradivarius, Massimo Dutti",
-                "Владелец торговых марок Christian Dior, Givenchy, Louis Vuitton, Hennessy",
+                "  Основатель \n  Oracle",
+                "  Основатель \n Inditex",
+                "Владелец торговых марок Christian Dior, Louis Vuitton и др.",
 
-                "Америкаский писатель. Король ужасов",
-                "Самый кассовый кинорежиссер за всю историю кинематографа",
-                "Основатель и СЕО информационного агентства «Bloomberg L.P.",
+                "Америкаский \n писатель. \n Король ужасов",
+                "Известный кинорежиссер",
+                "Основатель агентства Bloomberg L.P.",
 
-                "Основатель Amazon",
-                "Сооснователь Alibaba Group",
-                "Английский профессор, ученый, астрофизик и космолог",
+                "  Основатель \n Amazon",
+                "  Сооснователь \n Alibaba Group",
+                "Английский \n астрофизик \n и космолог",
 
-                "Основатель Вконтакте и Telegram",
-                "Основательница и генеральный директор компании Lens Technology",
-                "Основательница интернет-магазина WildBerries.ru",
+                "Основатель \n Вконтакте и Telegram",
+                "  Основательница \n Lens Technology",
+                "Основательница WildBerries.ru",
 
-                "Известная певица, актриса, автор песен, певица и музыкальный продюсер",
+                "  Известная певица и актриса",
                 "Мексиканский бизнесмен",
 
-                "Бывший CEO Starbucks",
+                "  Бывший \n CEO Starbucks",
 
                 "С# - разработчик",
 
@@ -318,7 +323,7 @@ public class PersonConfiguration {
 
                 "Android - разработчик", "Android - разработчик",
 
-                "Android - разработчик"
+                "Android - разработчик", "Python - разработчик"
         ));
     }
 
@@ -483,7 +488,9 @@ public class PersonConfiguration {
                         + "Профессионал своего дела. "
                         + "Классный тимлид и очень креативный человек",
 
-                "Разработчик приложения ShareHelp"
+                "Разработчик приложения ShareHelp",
+
+                "Ешгин"
         ));
     }
 
@@ -584,7 +591,7 @@ public class PersonConfiguration {
                 "отсутствует", "отсутствует",
                 "отсутствует", "отсутствует",
                 "отсутствует", "отсутствует",
-                "отсутствует"
+                "отсутствует", "отсутствует"
         ));
     }
 
@@ -664,12 +671,13 @@ public class PersonConfiguration {
                 "отсутствует", "отсутствует",
                 "отсутствует",
 
+                // todo содержание этого видео соответствует содержанию биографии - плохо!!
                 "https://www.youtube.com/watch?v=2pvE51S1wMg&t=5s", // Говард Шульц
 
                 "отсутствует", "отсутствует",
                 "отсутствует", "отсутствует",
                 "отсутствует", "отсутствует",
-                "отсутствует"
+                "отсутствует", "отсутствует"
         ));
     }
 
